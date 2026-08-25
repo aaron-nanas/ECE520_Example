@@ -5,6 +5,8 @@ module inverter
     output out
 );
 
-assign out = ~in;
+always @(posedge clk) begin
+    out <= ~in;
+end
 
 endmodule
