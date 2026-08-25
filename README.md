@@ -20,3 +20,4 @@ This is how I tested my design.
 # Known Issues and Limitations
 
 # References
+![pic_1](./img/pic_1.png)
